@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+html,body{
+    line-height: 1.4;
+    font-weight: 300;
+    font-family: "Roboto", sans-serif;
+}
+/* nav{
+    padding: 5px;
+    background-color: rgb(200, 197, 197);
+    text-align: center;
+}
+nav .a1{
+    background-color: rgb(127, 126, 126);
+    border: 2px solid black;
+    text-align: center;
+    padding: 3px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 100px;
+    border-radius: 3px;
+    color: black;
+    text-decoration: none;
+}
+nav .a2{
+    border: 2px solid black;
+    text-align: center;
+    padding: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 100px;
+    border-radius: 3px;
+    color: black;
+    text-decoration: none;
+} */
+div{
+    text-align: center;
+}
+div h1{
+    text-align: center;
+}
+div h2{
+    text-align: center;
+}
+div p{
+    text-align: center;
+}
+/* .canvas .button{
+    text-align: center;
+    height: 100px;
+    weight: 100px;
+    border: 2px solid black;
+} */
+#yellow{
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: yellow;
+}
+#white{
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: white;
+}
+#aqua{
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: aqua;
+}
+#yellowgreen{
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: yellowgreen;
+}
+#pink{
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: pink;
+}
